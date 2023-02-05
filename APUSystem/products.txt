@@ -1,0 +1,3 @@
+Sugar,200
+Rice,150
+Coke,100
